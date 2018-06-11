@@ -1,7 +1,9 @@
  function Add(num1,num2){
- num1 = 7;
- num2 = 5;
  return (num1 + num2);
- console.log(Add);
  }
+ console.log(Add(5,7));
  
+function Multiplication(num1,num2){
+    return(num1 * num2);
+}
+console.log(Multiplication(3,5));
