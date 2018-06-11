@@ -12,3 +12,8 @@ function Subtraction(num1,num2){
     return(num1-num2);
 }
 console.log(Subtraction(3,6));
+
+function Div(num1,num2){
+    return(num1/num2);
+}
+console.log(Div(6,3));
