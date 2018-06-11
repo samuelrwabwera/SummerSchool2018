@@ -17,3 +17,14 @@ function Div(num1,num2){
     return(num1/num2);
 }
 console.log(Div(6,3));
+
+var char = "Hello";
+
+console.log(char);
+function Me(char){
+return char;
+}
+console.log(Me(char));
+
+
+
